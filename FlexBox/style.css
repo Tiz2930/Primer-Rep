@@ -1,0 +1,68 @@
+.bloque1 {
+    background-color: greenyellow;
+    width: 150px;
+    height: 100px;
+}
+
+.bloque2 {
+    background-color: #9b9b9b;
+    width: 900px;
+    height: 100px;
+    position: absolute;
+    top: 8px;
+    left: 175px;
+}
+
+.bloque3 {
+    background-color: bisque;
+    border-style: solid;
+    border-width: 3px;
+    position: absolute;
+    width: 1060px;
+    height: 30px;
+    top: 120px;
+}
+
+.bloque4{
+    background-color: blueviolet;
+    height: 500px;
+    width: 190px;
+    position: absolute;
+    top: 170px;
+}
+
+.bloque5{
+    background-color: aqua;
+    height: 250px;
+    width: 400px;
+    position: absolute;
+    left: 220px;
+    top: 170px;
+}
+
+.bloque6{
+    background-color: pink;
+    height: 250px;
+    width: 400px;
+    position: absolute;
+    top: 170px;
+    left: 675px;
+}
+
+.bloque7{
+    background-color: yellow;
+    width: 855px;
+    height: 220px;
+    position: absolute;
+    top: 450px;
+    left: 220px;
+}
+
+.bloque8{
+    background-color: #51d1f6;
+    width: 1065px;
+    height: 200px;
+    position: absolute;
+    top: 690px;
+    border-style: dashed;
+}
