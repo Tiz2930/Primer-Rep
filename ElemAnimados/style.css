@@ -1,0 +1,17 @@
+ul li a:hover{
+    color: rgb(0, 217, 255);
+}
+
+.enlace:hover{
+   color: rgb(0, 217, 255);
+}
+
+.hover:hover{
+    color: red;
+    cursor: pointer;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a:visited{
+    color: green;
+}
